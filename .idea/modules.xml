@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../CodasoFramework/.idea/CodasoFramework.iml" filepath="$PROJECT_DIR$/../CodasoFramework/.idea/CodasoFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodasoFramework.iml" filepath="$PROJECT_DIR$/.idea/CodasoFramework.iml" />
     </modules>
   </component>
 </project>
